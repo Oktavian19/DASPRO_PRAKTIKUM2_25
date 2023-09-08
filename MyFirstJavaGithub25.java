@@ -4,5 +4,6 @@ public class MyFirstJavaGithub25 {
     public static void main(String[] args) {
         System.out.println("Hello from Github");
         System.out.println("Saya Nomor Absen : 25");  
+        System.out.println("blabla");
     } 
 }
